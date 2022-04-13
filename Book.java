@@ -21,7 +21,7 @@ public class Book extends TheProduct{
 	void getDetails() {
 		System.out.println("We sell books on Software Development");
 	}
-	//
+	///
 
 
 
